@@ -1,7 +1,6 @@
 package tp3nicoseccion1.Ej1.Service;
 
 import java.sql.*;
-import java.util.List;
 import java.util.logging.Logger;
 
 import org.springframework.web.bind.annotation.*;
